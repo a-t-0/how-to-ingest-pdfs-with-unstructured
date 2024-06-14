@@ -5,3 +5,13 @@ pytest-cov
 black[jupyter]
 ipykernel
 textwrap3
+
+# Additional requirements to run the ipynb.
+pdfminder.six
+pillow_heif
+unstructured
+textwrap3
+opencv-python
+pdf2image
+unstructured_inference
+pytesseract # Perhaps redundant, did not verify.
